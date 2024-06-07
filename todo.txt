@@ -1,0 +1,47 @@
+Make cv with modern theme using jeklee
+Add Images
+
+ <div class="row">
+      <div class="portfolio-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 web">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/01-large.jpg" title="Caption: Vansh Mahajan" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>Mid Night View</h4>
+                <small>Caption: Vansh Mahajan</small> </div>
+              <img src="img/portfolio/01-small.jpg" class="img-responsive" alt="Mid Night View"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 app">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/02-large.jpg" title="A view from inside" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>A view from inside</h4>
+                <small>Hall-XI</small> </div>
+              <img src="img/portfolio/02-small.jpg" class="img-responsive" alt="Inside View"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 web">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/03-large.jpg" title="Caption: Mayank Verma" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>A Random Click</h4>
+                <small>Caption: Mayank Verma</small> </div>
+              <img src="img/portfolio/03-small.jpg" class="img-responsive" alt="A Random Click"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 web">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/04-large.jpg" title="Caption: Mayank Verma" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>An awesome weather</h4>
+                <small>Caption: Mayank Verma</small> </div>
+              <img src="img/portfolio/04-small.jpg" class="img-responsive" alt="Awesome Weather"> </a> </div>
+          </div>
+        </div>
+        		
+      </div>
+    </div>
+  </div>
+</div>
+
